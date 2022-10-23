@@ -1,2 +1,1 @@
-# trojan
-script trojan
+# script WifiTROJAN
